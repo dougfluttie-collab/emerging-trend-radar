@@ -17,4 +17,10 @@ A null result is an acceptable, useful outcome.
 Storage layer and daily Wikipedia pageviews collection are running.
 Google Trends integration awaiting API access.
 
+## Policies
+This project uses YouTube API Services.
+- [Privacy Policy](PRIVACY.md)
+- [Terms of Service](TERMS.md)
+- [YouTube Terms of Service](https://www.youtube.com/t/terms) · [Google Privacy Policy](http://www.google.com/policies/privacy)
+- 
 Contact: dougfluttie@gmail.com
